@@ -1,4 +1,4 @@
-# goclimate
+# Instant climate
 Primeros pasos en Kotlin. Aplicación mobile sencilla que muestra el clima de varias ciudades de la Argentina.
 
 Desarrollada en el lenguaje Kotlin, se consume la API de https://openweathermap.org/ para obtener las condiciones climáticas de las diferentes ubicaciones.
