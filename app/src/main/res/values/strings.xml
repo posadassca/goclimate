@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Go Climate</string>
+
+    <string name="text_degree"></string>
+    <string name="text_city">...</string>
+    <string name="text_weather"></string>
+
+    <string name="text_welcome">Welcome to the ¡Go Climate! For the have one weather of the one city quickly</string>
+    <string name="text_button_mexico">Weather city of Santa Fe</string>
+    <string name="text_button_argentina">Weather city of Buenos Aires</string>
+</resources>
